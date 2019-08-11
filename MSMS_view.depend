@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1410883662 source:c:\cpp\msms_view\msms_view - new\graph.cpp
+	"graph.h"
+
+1410883642 c:\cpp\msms_view\msms_view - new\graph.h
+	<stdlib.h>
+	<vector>
+	<gl\gl.h>
+	<iostream>
+
+1411479629 source:c:\cpp\msms_view\msms_view - new\viewer.cpp
+	"viewer.h"
+
+1411478814 c:\cpp\msms_view\msms_view - new\viewer.h
+	<SOIL/SOIL.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<gl/gl.h>
+	"graph.h"
+	"display.h"
+
+1410943919 source:c:\cpp\msms_view\msms_view - new\display.cpp
+	"display.h"
+
+1410943919 c:\cpp\msms_view\msms_view - new\display.h
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+	<gl\gl.h>
+
+1411479652 source:c:\cpp\msms_view\msms_view - new\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<fcntl.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"viewer.h"
+
